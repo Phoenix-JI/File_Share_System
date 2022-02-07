@@ -12,7 +12,7 @@ After receiving the responses from different computers - PC X, Y, Z, ..., the ap
 8. Get the directory size and last modified time.
 9. Get the file location.
 
-### I used the picture & video of Landlord's Cat,my favoutite band,for testing. Love them !!!
+### I utilized the picture & video of Landlord's Cat, my favoutite band, for testing. Love them !!!
 
 ## System Figure
 ![This is an image](https://github.com/Phoenix-JI/File_Share_System/blob/main/System.png)
