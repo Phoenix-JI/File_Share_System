@@ -13,3 +13,5 @@ After receiving the responses from different computers - PC X, Y, Z, ..., the ap
 9. Get the file location.
 
 ![This is an image](https://github.com/Phoenix-JI/File_Share_System/blob/main/System.png)
+
+### I used the picture & video of Landlord's Cat,my favoutite band,for testing. Love them !!!
