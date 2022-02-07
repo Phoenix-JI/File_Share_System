@@ -11,3 +11,5 @@ After receiving the responses from different computers - PC X, Y, Z, ..., the ap
 7. Read the file’s detail information including the size, last modified time, etc.
 8. Get the directory size and last modified time.
 9. Get the file location.
+
+![This is an image](https://github.com/Phoenix-JI/File_Share_System/blob/main/System.png)
